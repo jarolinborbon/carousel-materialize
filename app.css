@@ -1,0 +1,13 @@
+.jarolin{
+    background-color: aqua;
+}
+h1{
+    background-color: brown;
+}
+h1:hover{
+background-color: rgb(226, 43, 144);
+text-transform: uppercase;
+}
+@media (max-width:1000px) { header label{  
+    display: block;
+    
